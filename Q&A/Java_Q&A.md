@@ -459,7 +459,7 @@ public class Lottos {
 </details>
 
 <details>
-<summary>추상화란 무엇일까요?</summary>
+<summary><s>추상화란 무엇일까요?</s></summary>
 
 <br>
 
