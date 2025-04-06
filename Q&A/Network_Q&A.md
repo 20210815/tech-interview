@@ -1,13 +1,13 @@
 # 네트워크
 ## TCP & UDP
 <details>
-<summary>TCP와 UDP의 차이점에 대해 설명해주세요.</summary>
+<summary><s>TCP와 UDP의 차이점에 대해 설명해주세요.</s></summary>
 
 <hr>
 
 - TCP는 Receiver와 Sender사이에 연결을 만들고 해당 연결을 기반으로 데이터를 주고받는 **연결 지향형 프로토콜**이며 UDP는 연결 없이 전송하는 **비연결형 프로토콜**이다.
 - TCP는 데이터를 순서대로 보내고 순서대로 수신하는 반면에 UDP는 수신의 순서가 중요하지 않다.
-- TCP는 연결의 체증을 제어하기 위해 흐름제어(Flow Control)과 혼잡제어(Congestion Control)을 진행한다. 반대로 UDP는 수행하지 않는다.
+- TCP는 연결의 체증을 제어하기 위해 **흐름제어(Flow Control)과** **혼잡제어(Congestion Control)**을 진행한다. 반대로 UDP는 수행하지 않는다.
 - 속도 측면에서는 비연결형인 UDP가 더 빨라서 스트리밍과 같이 연속성이 중요한 서비스에 사용된다. 반면에 TCP는 속도가 느린대신 연결을 맺고 통신을 하기에 신뢰성이 중요한 서비스에 이용한다.
 
 ![](img/network/tcp_udp.png)
@@ -17,7 +17,7 @@
 
 
 <details>
-<summary>DNS와 DHCP는 UDP와 TCP중 어떤 프로토콜을 사용할까요?</summary>
+<summary><s>DNS와 DHCP는 UDP와 TCP중 어떤 프로토콜을 사용할까요?</s></summary>
 
 <hr>
 
