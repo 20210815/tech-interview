@@ -42,7 +42,7 @@
 
 
 <details>
-<summary>TCP 3 way handshake에 대해서 설명해주세요.</summary>
+<summary><s>TCP 3 way handshake에 대해서 설명해주세요.</s></summary>
 
 <hr>
 
@@ -59,7 +59,7 @@
 
 
 <details>
-<summary>TCP 4 way handshake에 대해서 설명해주세요.</summary>
+<summary><s>TCP 4 way handshake에 대해서 설명해주세요.</s></summary>
 
 <hr>
 
@@ -77,7 +77,7 @@
 
 
 <details>
-<summary>왜 연결을 끊을 때는 4way handshke를 할까요?</summary>
+<summary><s>왜 연결을 끊을 때는 4way handshke를 할까요?</s></summary>
 
 <hr>
 
@@ -88,7 +88,7 @@
 
 
 <details>
-<summary>Time-wait이란 무엇일까요?</summary>
+<summary><s>Time-wait이란 무엇일까요?</s></summary>
 
 <hr>
 
